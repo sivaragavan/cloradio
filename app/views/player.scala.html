@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Cloradio</title>
+
+		<link rel="shortcut icon" type="image/png" href="@routes.Assets.at("images/favicon.png")">
+		<link rel="stylesheet" href="@routes.Assets.at("stylesheets/jquery-ui-1.8.22.custom.css")">
+		<link rel="stylesheet" href="@routes.Assets.at("stylesheets/main.css")">
+
+		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script src="http://jplayer.org/2.1.0/js/jquery.jplayer.min.js"></script>
+		<script src="@routes.Assets.at("javascripts/jquery-ui-1.8.22.custom.min.js")"></script>
+		<script src="@routes.Assets.at("javascripts/main.js")"></script>
+		<script>
+			$(document).ready(function() {
+				pageSetup();
+				onLoad();
+			});
+			$(window).resize(function() {
+				pageSetup();
+			});
+		</script>
+
+		<link href="http://jplayer.org/latest/skin/blue.monday/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />
+
+	</head>
+	<body>
+
+		<!--<div id="header">
+		<img id="logo" src="@routes.Assets.at("images/logo_web.png")">
+		</div>-->
+
+		<div id="library">
+			<img id="logo" src="@routes.Assets.at("images/logo_web.png")">
+		</div>
+
+		<div id="info">
+			<img id="newslogo" src="@routes.Assets.at("images/techcrunch.png")">
+			<div id="estTime">
+				00:00 (approx.)
+			</div>
+			<div id="newsheadline"></div>
+		</div>
+		<div id="content">
+			<div id="images">
+
+			</div>
+			<div id="details">
+
+			</div>
+		</div>
+		<div id="comment"></div>
+
+		<div id="footer">
+			<div id="play" class="play"><img src="/assets/images/pause.png">
+			</div>
+			<div id="transcript" class="transcript"><img src="/assets/images/three_lines.png">
+			</div>
+			<div id="prog"></div>
+			<div id="progressArea">
+				<div class="progressBar" id="progressBar"></div>
+			</div>
+		</div>
+
+		<div id="players">
+			<div id="jquery_jplayer_intro" class="jp-jplayer"></div>
+		</div>
+
+		<div id="comet-container"></div>
+
+	</body>
+</html>

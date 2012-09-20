@@ -1,0 +1,31 @@
+
+# Articles
+
+articles:
+
+    - !!models.Article
+        id:      03005531-7c55-4415-a985-7da357b66170
+        url:     techcrunch.com/2012/08/07/square-partnershi/
+        title:   Square Partners With Starbucks, Raises $25M For Series D; Howard Schultz Joins The Board
+        text:    It might not be the funding announcement we’ve been hearing rumors about, but today Square announced that they’ve partnered with Starbucks.
+Beginning this fall, Square will begin processing all U.S. credit and debit card transactions at participating Starbucks stores across their 7,000 locations. Pay with Square users will be able to find a nearby Starbucks in the Square Directory from their iPhone or Android smartphone. Additionally, Starbucks will be investing $25 million in Square for the company’s Series D financing round, which clocks in at a $3.25 billion valuation. (Just shy of the $4 billion valuation we’d been hearing about.) Howard Schultz, CEO of Starbucks, will also be joining Square’s Board of Directors.
+More importantly, this catapults Square into the mainstream consciousness for the millions of drones who drop by their local Starbucks on the way to work. Last quarter the Seattle-based coffee company reported $3.3 billion in revenue. This past June Square announced that the company is now processing $6 billion in annual sales. Lump that in with credit/debit card sales from Starbucks over the course of the year and you’ve got a lot of zeros.
+New Pay with Square users who frequent Starbucks will not only be able to pay for their cup of coffee without ever pulling out their wallet but they’ll also unlock a new world of merchants. At some point Starbucks will integrate the Square Directory into its own apps but it’s unclear if Pay with Square functionality will also be integrated. (Will this have an impact on Apple and its Passbook app when iOS 6 launches later this year? Starbucks was apart of the Passbook demo at WWDC this past June. Not to mention the fact that Square also has a loyalty program.)
+Square’s Co-founder and CEO Jack Dorsey has assured all merchants via email that Square isn’t losing focus on small businesses but rather, the company believes this will boost Square merchant awareness across the board. His email is below:
+I am pleased and proud to announce that today Starbucks signed up for Square.
+Square began with a really simple idea: everyone should be able to accept credit cards. It should be easy and free to get set up, it should use simple technology people already own, and, most importantly, it should instantly adapt to any size business—from the person chasing a dream to the largest organization on the planet. By embracing Square, Starbucks has validated these ideas as powerful tools—not just for small businesses, but for smart businesses.
+It’s amazing to think that Starbucks began as a single coffee shop in Seattle. The concept of taking a good idea and helping it grow is not foreign to them, and Starbucks doesn’t just view Square as the simplest way to accept payments. They see an opportunity to extend and accelerate a model they grew up with: the idea that business is local and that community plays a vital role in job creation and economic vitality. When Starbucks builds the Square Directory into their apps and in-store Digital Network, it gives Square new visibility, driving more customers to opt-in to Square. And with nearly 7,000 Starbucks stores soon accepting Square, these new payers will be able to find your business (including coffeehouses) and pay with their name, building community and creating value.
+Our customers make us who we are, and we are proud of every single one of you—including our newest. Our promise to you remains the same: build simple, affordable, and fast tools that level the playing field for everyone. Thank you for helping us build Square. And please share your thoughts and tweets; I’m listening.
+As Howard Schultz says: #Onward,
+@jack
+To date, Square has enabled 2 million merchants – big and small – to accept credit card payments through a mobile device (Android, iPhone, iPad) and a tiny square dongle.
+Square
+February 2009
+
+Square is a revolutionary service that enables anyone to accept credit cards anywhere. Square offers an easy to use, free credit card reader that plugs into a phone or iPad. It’s simple to sign up. There are no extra equipment, complicated contracts, monthly fees or merchant account required. Co-founded by Jim McKelvey and Jack Dorsey in 2009, the company is headquartered in San Francisco with additional offices in Saint Louis and New York City.→ Learn more
+→ Learn more
+Starbucks Coffee Company is the leading retailer, roaster and brand of specialty coffee in the world. → Learn more
+→ Learn more
+		total_length:	40
+		download_length: 40
+		
